@@ -1,0 +1,20 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.checklist {
+  text-align: left;
+}
+
+.checkbox-container {
+  padding: 4px 20px;
+}
+
+.checkbox {
+  display: flex;
+  gap: 4px;
+  align-items: center;
+  padding: 2px;
+  font-size: 16px;
+}
